@@ -8,23 +8,23 @@ I'm always looking for ways to push my skills, collaborate with others, and work
 
 ## 🔨 What I’ve Been Building
 
-### 🧠 Fake News Classifier (AI + NLP)
+### [🧠 Fake News Classifier (AI + NLP)](https://github.com/Bradramnarinesingh/fake-news-detector)
 I got curious about how misinformation spreads online, so I built a deep learning model that can tell real news from fake. I combined TensorFlow with some classic NLP techniques (like TF-IDF) and ran experiments to tune the model’s accuracy.
 
-### 📊 House Price Predictor
+### [📊 House Price Predictor](https://github.com/Bradramnarinesingh/House-Prices-Prediction)
 Real estate’s wild — so I built a machine learning model that takes in property data and spits out a price. It uses Gradient Boosting and some custom feature engineering to stay smart and accurate.
 
-### 🌐 My Portfolio Site
+### [🌐 My Portfolio Site](https://github.com/Bradramnarinesingh/Portfolio-Website)
 This is where I showcase my projects (including this one). Built with HTML/CSS and JavaScript, it’s fast, responsive, and sprinkled with little animations for a smoother feel. You’re probably on it right now 👀
 
 ---
 
 ## 🧰 Tools I Like Using
 
-- **Languages**: Python, Java, JavaScript, HTML/CSS
-- **Frameworks**: TensorFlow, Flask, Scikit-Learn
-- **Tools**: Git, Vercel, PyCharm, VS Code
-- **Other stuff**: Matplotlib, Pandas, WordPress
+- **Languages**: Python, Java, JavaScript, HTML/CSS  
+- **Frameworks**: TensorFlow, Flask, Scikit-Learn  
+- **Tools**: Git, Vercel, PyCharm, VS Code  
+- **Other stuff**: Matplotlib, Pandas, WordPress  
 
 ---
 
